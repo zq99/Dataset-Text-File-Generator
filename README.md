@@ -1,5 +1,5 @@
 # Text-File-Generator
-A class to generate a dummy text file in VBA.
+A class to generate a dummy text file in VBA with randomly populated data.
 
 The output file has mixed data types. 
 
