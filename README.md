@@ -1,4 +1,4 @@
-# Text-File-Generator
+# Dataset Text File Generator
 A class to generate a dummy text file in VBA with randomly populated data.
 
 The output file has mixed data types. 
@@ -27,3 +27,12 @@ This is the code required to create a simple text file:
     Else
         MsgBox "File not created!"
     End If
+
+## Output
+
+The class has two outputs. 
+
+The first is a text file with a dataset populated with random information, based on the parameters you have specified.
+
+The second output is a text file, which contains the necessary SQL statement to create a table in SQL Server based on the dimensions and data types found in the text file.
+
